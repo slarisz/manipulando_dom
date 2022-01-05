@@ -1,2 +1,2 @@
-# mipulando_dom
+# manipulando_dom
 Curso Manipulando D.O.M. da DIO
